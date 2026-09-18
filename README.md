@@ -1,5 +1,5 @@
 # Hi there 👋
 
-## I'm Harshita Arimakala — B.Tech student in Computer Science & Engineering at IIT Bhilai
+## I'm Harshita Arimakala — B.Tech student in CSE at IIT Bhilai
 
 📫 [harshita166244@gmail.com]
